@@ -1,0 +1,29 @@
+{
+  "name": "create-lookiejs",
+  "version": "0.0.1",
+  "description": "Project Initializer for LookieJS, a Looking Glass JS Framework",
+  "main": "./bin/lgcreate.js",
+  "bin": {
+    "create-lookiejs": "./bin/lgcreate.js",
+    "lgcreate": "./bin/lgcreate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelHazani/create-lookiejs.git"
+  },
+  "keywords": [
+    "lookingglass",
+    "3d",
+    "threejs",
+    "webgl"
+  ],
+  "author": "Michael Hazani <michael@michaelhazani.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelHazani/create-lookiejs/issues"
+  },
+  "homepage": "https://github.com/MichaelHazani/create-lookiejs#readme"
+}
